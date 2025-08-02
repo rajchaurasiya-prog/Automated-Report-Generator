@@ -50,3 +50,8 @@ Such a system could be integrated into business workflows for generating automat
 Conclusion
 In conclusion, this project successfully integrates data analysis and document automation to create a real-world solution. It improves efficiency, ensures consistency, and reduces manual reporting effort. The project highlights the versatility of Python in solving practical problems and showcases essential skills in data handling, reporting, and automation.
 
+
+
+output:
+![Image](https://github.com/user-attachments/assets/286839ec-1551-438b-8662-ab510dbc6c8b)
+
